@@ -2,8 +2,7 @@
 
 ## Data Generation Script for Clustering
 
-#### Part 01:
-- Use Data Generation script to create sample data for using clustering algorithms to determine clusters for both examples. Algorithms to use:  
+- This program uses data generation script to create sample data for using clustering algorithms to determine clusters for two examples. Algorithms in use:  
     - KMeans
     - DBScan
     - Choice of others that works best.
